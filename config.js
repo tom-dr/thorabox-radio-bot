@@ -3,7 +3,7 @@ const project = require('./package.json')
 module.exports = {
   BOT_VERSION: project.version,
   BOT_NAME: 'Torah-Box Radio',
-  BOT_TOKEN: 'ODMyMTQ5MDg0NDUwMTkzNDU4.YHflOg.GaryxMmkkCU-R94NSdvYw5dZ7LU',
+  BOT_TOKEN: '',
   PREFIX: 'tbr',
   STREAM_URL: 'http://radio.torah-box.com:8000/_a',
   INVITE_LINK:
